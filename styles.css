@@ -1,0 +1,12 @@
+.form-control, .btn {
+    max-width: 400px;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.row{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
